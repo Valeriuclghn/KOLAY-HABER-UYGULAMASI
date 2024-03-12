@@ -1,0 +1,10 @@
+C:\Users\Gizem\source\repos\RSS_Proje\bin\Debug\RSS_Proje.exe.config
+C:\Users\Gizem\source\repos\RSS_Proje\bin\Debug\RSS_Proje.exe
+C:\Users\Gizem\source\repos\RSS_Proje\bin\Debug\RSS_Proje.pdb
+C:\Users\Gizem\source\repos\RSS_Proje\obj\Debug\RSS_Proje.csproj.AssemblyReference.cache
+C:\Users\Gizem\source\repos\RSS_Proje\obj\Debug\RSS_Proje.Form1.resources
+C:\Users\Gizem\source\repos\RSS_Proje\obj\Debug\RSS_Proje.Properties.Resources.resources
+C:\Users\Gizem\source\repos\RSS_Proje\obj\Debug\RSS_Proje.csproj.GenerateResource.cache
+C:\Users\Gizem\source\repos\RSS_Proje\obj\Debug\RSS_Proje.csproj.CoreCompileInputs.cache
+C:\Users\Gizem\source\repos\RSS_Proje\obj\Debug\RSS_Proje.exe
+C:\Users\Gizem\source\repos\RSS_Proje\obj\Debug\RSS_Proje.pdb
